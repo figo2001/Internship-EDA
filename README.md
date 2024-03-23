@@ -50,5 +50,8 @@ Thanks to the creators of Seaborn for providing such a powerful data visualizati
 Special thanks to the creators of Brooklyn99 for providing the dataset for analysis.
 Feel free to contribute to this project by forking and submitting a pull request!
 
+## Demo 
+[streamlit-app-2024-03-24-00-03-13.webm](https://github.com/figo2001/Internship-EDA/assets/78696850/1c5cb81f-7c39-41ce-b423-a8a0e4e226e9)
+
 
 

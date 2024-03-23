@@ -12,7 +12,7 @@ data = load_data()
 
 # Page Title
 st.title('Brooklyn Nine-Nine Episode Analysis 📊')
-st.image('image.jpeg', caption='Brooklyn Nine-Nine', use_column_width=True)
+st.image('image.JPEG', caption='Brooklyn Nine-Nine', use_column_width=True)
 
 st.write("After successfully completing my internship, this project showcases my analysis of a TV show dataset through exploratory data analysis.📈")
 
